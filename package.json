@@ -1,0 +1,21 @@
+{
+  "name": "dom-remove-style",
+  "version": "0.0.1",
+  "description": "Removes style attribute from an element",
+  "keywords": [
+    "remove",
+    "style",
+    "attribute"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nk-components/dom-remove-style.git"
+  },
+  "devDependencies": {
+    "component-test": "*"
+  },
+  "scripts": {
+    "test": "make phantom"
+  }
+}
