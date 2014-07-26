@@ -1,6 +1,6 @@
 {
   "name": "dom-remove-style",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Removes style attribute from an element",
   "keywords": [
     "remove",

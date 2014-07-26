@@ -2,7 +2,7 @@
   "name": "dom-remove-style",
   "repo": "nk-components/dom-remove-style",
   "description": "Removes style attribute from an element",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "keywords": [
     "remove",
     "style",
