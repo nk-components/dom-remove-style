@@ -3,7 +3,7 @@
 module.exports = removeStyle;
 
 function removeStyle(elmts) {
-  if (!(elmts instanceof Array)) {
+  if (elmts.length === undefined) {
     return remove(elmts);
   }
 
